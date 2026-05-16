@@ -3,7 +3,8 @@
 This repository contains Python scripts and an anonymized dataset for multi-band RF-EMF exposure mapping in urban areas of Tirana.
 
 ## Repository contents
-
+```text
+```text
 urban-rf-emf-mapping-tirana/
      - scripts/
          - rf_emf_mapping_journal.py
@@ -14,7 +15,7 @@ urban-rf-emf-mapping-tirana/
     -  README.md
      - requirements.txt
      - LICENSE
-
+```
 ## Main features
 
 The script generates journal-standard RF-EMF exposure maps with:
