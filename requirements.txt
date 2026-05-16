@@ -1,0 +1,7 @@
+shapely
+scipy
+matplotlib
+pandas
+numpy
+openpyxl
+pyproj
